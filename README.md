@@ -61,5 +61,3 @@ The project includes the following visual outputs:
 - **Predicted vs Actual Scatter Plots** for Linear Regression and Decision Tree
 - **Residual Distribution Plots** for both models
 - These help visualize model accuracy and error distribution.
-
----
